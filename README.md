@@ -24,4 +24,4 @@ Users  can login/register to the platform using their Gooogle account.
         - Maintained the entire content of this application using ** Sanity ** (Content Management System)
 
 ## Technology and Tools Used
-Visual Studio Code, Sanity(Content Management System), Create-React-App environment, Tailwind CSS, Google Cloud Platform,  
+Visual Studio Code, Sanity(Content Management System), Create-React-App environment, Tailwind CSS, Google Cloud Platform. 
