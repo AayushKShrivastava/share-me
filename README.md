@@ -5,6 +5,8 @@ Share Me is a modern photo sharing social media full stack application, like Pin
     - Search, and Filter images, and more. 
     - Mobile Responsive
 
+![SCreenshot](./login.png)
+
 Users can login to the platform using a custom page featurng Google Authentication. Immediately they will be greeted with the feed of images posted by others. Each image can be downloaded, and saved. They also have a destination url. 
 By clicking the images one can see its title, description, and can also comment on it. This page also allows users to visit the profile of the user, who posted that image, featuring all the posts Created, and Saved by that user. Along with that they can also find similar images on the same page.
 
