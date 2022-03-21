@@ -1,9 +1,9 @@
 Share Me is a modern photo sharing social media full stack application, like Pinterest. It is enabled with all advanced features one can find in any other such application including:
-    - Google Authentication
-    - Create, Edit, Delete, and Save images
-    - Like, and Comment on other user's posts
-    - Search, and Filter images, and more. 
-    - Mobile Responsive
+- Google Authentication
+- Create, Edit, Delete, and Save images
+- Like, and Comment on other user's posts
+- Search, and Filter images, and more. 
+- Mobile Responsive
 
 ![Screenshot](./login.png)
 
